@@ -2,23 +2,23 @@
 
 > *Finding the patterns in what people do, and the signals that explain why.*
 
-A data analysis portfolio by Faith.
+Hi, I'm Faith 😊 — I'm building my skills in data analysis, with a particular interest in what shapes the choices people make.
 
-Hi, I'm Faith 👋 — I'm building my skills as a data analyst, with a focus on **why people do what they do**.
+What I explore
+🛍️ Consumer behaviour — what influences people to buy, come back, stay loyal, or move on
+📱 Product analysis — what people choose, what they use together, and what makes a product stick
+📊 Business analysis — turning data into insights that businesses can actually use
+🧠 Human behaviour & decision-making — exploring the patterns, preferences, and factors behind everyday choices
 
-## What I explore
-- **Consumer behavior** — what drives people to buy, return, stay loyal, or walk away
-- **Product analysis** — which products succeed, which get bought together, and why
-- **Business analysis** — turning data into decisions a business can act on
+🛠️ Tools I use to explore data, find patterns, build visualisations, and turn messy numbers into something that actually makes sense.
 
-## Tools
-Python (pandas) · SQL · Tableau · Excel · Git & GitHub
+Python · pandas · SQL · Tableau · Excel · Git & GitHub
 
-## Projects
-| # | Project | Question | Dashboard |
-|---|---------|----------|-----------|
-| 1 | _Coming soon_ | | |
+🔎 Projects - Coming soon
 
-## Find me
-- Tableau Public: _add your profile link_
-- Website: _coming soon_
+More experiments, analyses, and questionable amounts of curiosity coming soon. 👀
+
+🌐 Find me
+Tableau Public: coming soon
+Website: coming soon
+GitHub: you're already here 😌
