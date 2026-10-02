@@ -1,4 +1,8 @@
-# Faith's Data Analysis Portfolio
+# Patterns & Signals
+
+> *Finding the patterns in what people do, and the signals that explain why.*
+
+A data analysis portfolio by Faith.
 
 Hi, I'm Faith 👋 — I'm building my skills as a data analyst, with a focus on **why people do what they do**.
 
