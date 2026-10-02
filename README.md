@@ -14,7 +14,11 @@ What I explore
 
 Python · pandas · SQL · Tableau · Excel · Git & GitHub
 
-🔎 Projects - Coming soon
+## 🔎 Projects
+
+| # | Project | The question |
+|---|---|---|
+| 01 | [**Browsers vs. Buyers**](projects/01-online-shoppers/) | What separates online shoppers who buy from the ones who just look? |
 
 More experiments, analyses, and questionable amounts of curiosity coming soon. 👀
 
